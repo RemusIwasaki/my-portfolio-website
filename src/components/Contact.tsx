@@ -44,7 +44,7 @@ export const Contact = () => {
               </div>
               <div>
                 <h3 className="font-semibold text-slate-800 mb-1">Email</h3>
-                <p className="text-slate-600">your.email@example.com</p>
+                <p className="text-slate-600">jamruss0104@gmail.com</p>
               </div>
             </div>
             <div className="flex items-start gap-4">
@@ -53,7 +53,7 @@ export const Contact = () => {
               </div>
               <div>
                 <h3 className="font-semibold text-slate-800 mb-1">Phone</h3>
-                <p className="text-slate-600">+1 (555) 123-4567</p>
+                <p className="text-slate-600">+63 939 795 8114</p>
               </div>
             </div>
             <div className="flex items-start gap-4">
@@ -62,7 +62,7 @@ export const Contact = () => {
               </div>
               <div>
                 <h3 className="font-semibold text-slate-800 mb-1">Location</h3>
-                <p className="text-slate-600">Your City, State</p>
+                <p className="text-slate-600">Seoul (서울)</p>
               </div>
             </div>
           </div>
@@ -125,7 +125,7 @@ export const Contact = () => {
 
         <div className="text-center mt-16 pt-8 border-t border-slate-200">
           <p className="text-slate-600">
-            © 2024 Your Name. Built with React & Tailwind CSS.
+            © 2024 James. Built with React & Tailwind CSS.
           </p>
         </div>
       </div>

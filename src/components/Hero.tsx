@@ -17,7 +17,7 @@ export const Hero = () => {
           <h1 className="text-5xl md:text-7xl font-bold text-slate-800 mb-6">
             Hi, I'm{' '}
             <span className="bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-              Your Name
+              James
             </span>
           </h1>
           <p className="text-xl md:text-2xl text-slate-600 mb-8 max-w-3xl mx-auto">
